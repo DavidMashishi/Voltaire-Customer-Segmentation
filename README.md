@@ -1,4 +1,4 @@
-# Voltaire- Sales
+# Voltaire - Sales
 
 
 ## 📑 Table of Contents
