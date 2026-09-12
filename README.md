@@ -1,4 +1,4 @@
-# Voltaire Segment Sales
+# Voltaire Segmentation
 
 
 ## 📑 Table of Contents
